@@ -2,7 +2,7 @@ package app;
 
 import java.util.Scanner;
 
-public class Fafa {
+public class CodeForces935B {
 	public static void main(String[] args) {
 		/*
 		 * Create the scanner create variables for the 2 lines of input, num and move
