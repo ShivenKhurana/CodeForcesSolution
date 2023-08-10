@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class BarkToUnlock {
+public class CodeForces868A {
  
 	public static void main(String[] args) {
 		/*
