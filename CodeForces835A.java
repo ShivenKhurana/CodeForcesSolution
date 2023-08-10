@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KeyRaces {
+public class CodeForces835A {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		//System.out.println("Enter an integer: ");
